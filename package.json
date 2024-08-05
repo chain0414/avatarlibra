@@ -1,10 +1,10 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "avatar-libra",
+  "version": "1.0.0",
+  "author": "wayne chan <chain0414@gmail.com>",
   "workspaces": {
     "packages": [
-      "packages/dicebear",
-      "packages/@dicebear/*",
+      "packages/@avatar-libra/*",
       "apps/*"
     ]
   },
